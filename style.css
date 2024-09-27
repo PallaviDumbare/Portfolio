@@ -1,0 +1,9 @@
+.nav .nav-item .nav-link
+{
+    color:white;
+}
+.nav .nav-item .nav-link:hover
+{
+    border-bottom: 2px solid white;
+
+}
